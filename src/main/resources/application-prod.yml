@@ -1,6 +1,0 @@
-spring:
-	datasource:
-		url: jdbc:postgresql://containers-us-west-158.railway.app:7955/railway
-		username: postgres
-		password: 206FHKaRGbbBlfQD7Aaj
-		name: child-learn
